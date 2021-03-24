@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Johancelis06
-Ejecutando las pruebas ⚙️
+## Ejecutando las pruebas ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
